@@ -1,0 +1,10 @@
+{
+  "description": "Traffyn AI is an AI-driven traffic management platform that optimizes routes for travelers and enhances traffic flow for authorities, ensuring safer mobility.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
